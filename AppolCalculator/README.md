@@ -4,7 +4,7 @@ Yessirski! Brought to you by Appol Calculator, a regular calculator built with P
 
 <img width="323" height="563" alt="image" src="https://github.com/user-attachments/assets/b57daef4-a4e4-4d64-b906-0de98c88e7f5" />
 
-![image](https://cdn.discordapp.com/attachments/1134405446652923955/1414934321931882558/attachment.gif?ex=6915bfc6&is=69146e46&hm=52f65a1cebb38f8bd728e69f0b95fe66854430fd350006fcae63a9e67b6ca315&)
+<img width="323" height="563" alt="image" src="https://cdn.discordapp.com/attachments/1134405446652923955/1414934321931882558/attachment.gif?ex=6915bfc6&is=69146e46&hm=52f65a1cebb38f8bd728e69f0b95fe66854430fd350006fcae63a9e67b6ca315&" />
 
 ## 🔢 Main features
 
