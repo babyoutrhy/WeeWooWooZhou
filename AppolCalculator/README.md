@@ -28,4 +28,4 @@ python AppolCalculator.py
 3. Save the project file
 4. Run and see da magic
 
-https://cdn.discordapp.com/attachments/1134405446652923955/1414934321931882558/attachment.gif?ex=6915bfc6&is=69146e46&hm=52f65a1cebb38f8bd728e69f0b95fe66854430fd350006fcae63a9e67b6ca315&
+![image](https://cdn.discordapp.com/attachments/1134405446652923955/1414934321931882558/attachment.gif?ex=6915bfc6&is=69146e46&hm=52f65a1cebb38f8bd728e69f0b95fe66854430fd350006fcae63a9e67b6ca315&)
