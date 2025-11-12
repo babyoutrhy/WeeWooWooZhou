@@ -2,6 +2,9 @@
 
 Yessirski! Brought to you by Appol Calculator, a regular calculator built with Python and tkinter looking alike the Apple one.
 
+<img width="323" height="563" alt="image" src="https://github.com/user-attachments/assets/b57daef4-a4e4-4d64-b906-0de98c88e7f5" />
+
+
 ## 🔢 Main features
 
 - **Basic Math**: +, −, ×, ÷ (we don't do common core sorry)
