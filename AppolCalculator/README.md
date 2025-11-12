@@ -1,4 +1,4 @@
-# 😼🍎 Appol Calculator
+# Appol Calculator
 
 Yessirski! Brought to you by Appol Calculator, a regular calculator built with Python and tkinter looking alike the Apple one.
 
@@ -14,7 +14,7 @@ Yessirski! Brought to you by Appol Calculator, a regular calculator built with P
 
 ## 📥 Setup
 
-1. Download the (file)[https://github.com/babyoutrhy/WeeWooWooZhou/blob/main/AppolCalculator/AppolCalculator.py]
+1. Download the [file](https://github.com/babyoutrhy/WeeWooWooZhou/blob/main/AppolCalculator/AppolCalculator.py)
 2. Make sure you have Python (if you don't, just google it idk)
 3. Run this:
 
@@ -23,7 +23,7 @@ python AppolCalculator.py
 ```
 
 ## 🦇 Alternative Setup
-1. Copy the (code)[https://raw.githubusercontent.com/babyoutrhy/WeeWooWooZhou/main/AppolCalculator/AppolCalculator.py]
+1. Copy the [code](https://raw.githubusercontent.com/babyoutrhy/WeeWooWooZhou/main/AppolCalculator/AppolCalculator.py)
 2. Paste it to your project (create if you don't have any) on VSCode.
 3. Save the project file
 4. Run and see da magic
